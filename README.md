@@ -1,5 +1,5 @@
 # 💫 About Me:
-✏️ I'm currently working on sharpening and practicing my programming, AI, and problem-solving skills.<br>🤝 I'm looking to collaborate on AI-powered projects.<br>🌱 I'm currently learning about machine learning algorithms.<br>💬 Feel free to ask me about my experience with C++ programming and my passion for AI.
+✏️ I'm currently working on sharpening and practicing my programming, AI, and problem-solving skills.<br>🤝 I'm looking to collaborate on AI-powered projects.<br>🌱 I'm currently learning about machine learning algorithms and exploring the feild of Data Science.<br>💬 Feel free to ask me about my experience with C++ programming and my passion for AI.
 
 
 ## 🌐 Socials:
