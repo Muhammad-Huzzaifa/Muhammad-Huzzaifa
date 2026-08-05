@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;LLM+%7C+Computer+Vision+%7C+MLOps;Always+Building+Something+Cool" />
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Huzzaifa&style=for-the-badge&color=blue"/>
 
 </div>
