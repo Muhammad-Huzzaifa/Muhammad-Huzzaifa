@@ -1,18 +1,119 @@
-# 💫 About Me:
-✏️ I'm currently working on sharpening and practicing my programming, AI, and problem-solving skills.<br>🤝 I'm looking to collaborate on AI-powered projects.<br>🌱 I'm currently learning about machine learning algorithms and exploring the field of Data Science.<br>💬 Feel free to ask me about my experience with C++ programming and my passion for AI.
+<div align="center">
 
+# Hi 👋 I'm Muhammad Huzaifa
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-huzzaifa) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;LLM+%7C+Computer+Vision+%7C+MLOps;Always+Building+Something+Cool" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Huzzaifa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Huzzaifa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzzaifa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Huzzaifa&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Huzzaifa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+```yaml
+Name: Muhammad Huzaifa
+
+Role:
+  AI Engineer
+
+Currently:
+  - Building AI Applications
+  - Learning System Design and Cloud
+  - Exploring LLMs
+
+Interested In:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - MLOps
+  - LLM Engineering
+  - Distributed Systems
+
+Open To:
+  - Research
+  - Internship
+  - Collaboration
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/muhammad-huzzaifa">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- <a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+</a> -->
+
+<a href="mailto:muhammad.huzaifa.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<!-- <a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a> -->
+
+</p>
+
+---
+
+# Tech Stack
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=python,cpp,postgres&perline=4)
+
+### AI / ML
+
+![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,aws,fastapi,linux,git&&perline=4)
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Huzzaifa&show_icons=true&theme=tokyonight"/> -->
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Huzzaifa&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Huzzaifa&theme=tokyo-night"/>
+
+---
+
+# Currently Learning
+
+- Large Language Models
+- RAG Systems
+- Multi-Agent AI
+- Distributed Systems
+- Kubernetes
+- CUDA
+
+---
+
+# Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
