@@ -81,9 +81,9 @@ Open To:
 
 <p align="center">
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Huzzaifa&show_icons=true&theme=tokyonight"/> -->
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Muhammad-Huzzaifa&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Huzzaifa&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Huzzaifa&theme=tokyonight"/>
 
 </p>
 
