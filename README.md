@@ -18,7 +18,7 @@
 Name: Muhammad Huzaifa
 
 Role:
-  AI Engineer
+  AI & ML Engineer
 
 Currently:
   - Building AI Applications
